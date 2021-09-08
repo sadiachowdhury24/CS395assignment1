@@ -7,7 +7,7 @@ Assignment 1 Web Dev
 
 2. Flabica Maharjan - flabica 
 
-3. Michelle 
+3. Michelle Goenawan
 
 4. Rithika Chowdhury
 
