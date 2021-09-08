@@ -9,7 +9,7 @@ Assignment 1 Web Dev
 
 3. Michelle Goenawan
 
-4. Rithika Chowdhury
+4. Rithika Chowdhury - ri71
 
 
 [Click to see the site!](https://sadiachowdhury24.github.io/CS395assignment1/)
