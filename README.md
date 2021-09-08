@@ -12,4 +12,4 @@ Assignment 1 Web Dev
 4. Rithika Chowdhury
 
 
-[Link to site](https://sadiachowdhury24.github.io/CS395assignment1/)
+[Click to see the site!](https://sadiachowdhury24.github.io/CS395assignment1/)
