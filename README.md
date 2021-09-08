@@ -7,5 +7,9 @@ Assignment 1 Web Dev
 
 2. Flabica Maharjan - flabica 
 
+3. Michelle 
 
-[Link to site] (https://sadiachowdhury24.github.io/CS395assignment1/)
+4. Rithika Chowdhury
+
+
+[Link to site](https://sadiachowdhury24.github.io/CS395assignment1/)
