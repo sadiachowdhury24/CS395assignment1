@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
+
+*{
+    text-align:center;
+    font-family: 'Hina Mincho', serif;
+    
+}
+body {
+    background-color: powderblue;
+    font-size: 30px;
+  }
+
+  p {
+    color: #24556b;
+  }
