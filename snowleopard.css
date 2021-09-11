@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:green;
+    text-align: center;
+};
+
+#facts{
+    text-align: center;
+    color: dark blue; 
+}; 
