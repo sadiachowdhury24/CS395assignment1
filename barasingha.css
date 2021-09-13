@@ -1,0 +1,18 @@
+.banner {
+    color: white;
+    background-color: peru;
+    font-style: italic;
+  }
+  .bio {
+    color: white;
+    background-color: peru;
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: peru;
+  }
+  li {
+      display: inline;
+  }
