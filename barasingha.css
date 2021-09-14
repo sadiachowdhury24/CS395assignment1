@@ -1,18 +1,24 @@
+*{
+    text-align:center; 
+    font-family: 'Hina Mincho', serif;  
+}
 .banner {
     color: white;
     background-color: peru;
+    font-family: 'Hina Mincho', serif;  
     font-style: italic;
   }
   .bio {
+    font-family: 'Hina Mincho', serif;  
     color: white;
     background-color: peru;
   }
   ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      background-color: peru;
-  }
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: peru;
+}
   li {
       display: inline;
   }
