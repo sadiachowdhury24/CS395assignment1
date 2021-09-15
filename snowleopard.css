@@ -12,4 +12,11 @@ body {
 
   p {
     color: rgb(0, 102, 204);
+    padding-right: 40px;
+    padding-left: 40px; 
+  }
+
+  h3{
+    font-style: italic;
+    color: rgb(0, 102, 204);
   }
