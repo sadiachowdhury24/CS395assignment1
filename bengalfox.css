@@ -1,11 +1,9 @@
 /* importing from google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
 
-
 *{
   font-family: 'Hina Mincho', serif;
 }
-
 
 /* css for body */
 body {
@@ -26,22 +24,23 @@ p {
   border-radius: 5px;
   margin-left: auto;
   margin-right: auto;
-  width: 800px;
+  width: 1000px;
 }
 
-/* On mouse-over, add a deeper shadow */
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  background-color: #cbeef2;
+  color:#30b1bf;
 }
 
-/* Add some padding inside the card container */
 .container {
   padding: 10px;
 }
-/* image */
+
+/* did you know - image */
 .bengalimage{
   height: 400px;
-  width:390px;
+  width: 390px;
   margin: 20px;
 }
 
@@ -55,7 +54,9 @@ button{
   display: inline-block;
   font-size: 25px;
   transition-duration: 0.4s;
-  margin-top: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
 }
 button:hover {
   background-color: white;
