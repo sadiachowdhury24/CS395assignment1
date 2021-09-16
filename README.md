@@ -14,4 +14,4 @@ For this assignment we will be creating a website for our own zoo. There is a ho
 4. Rithika Chowdhury - ri71
 
 
-[Click to see the site!](https://sadiachowdhury24.github.io/CS395assignment1/)
+[Click here to see our zoo site!](https://sadiachowdhury24.github.io/CS395assignment1/)
