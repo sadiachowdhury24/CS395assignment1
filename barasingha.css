@@ -3,11 +3,28 @@
     font-family: 'Hina Mincho', serif;  
     color: #7A5202;
     font-size: 30px;
+    background-color: #8EA349;
+}
+.top {
+  padding-top: 25px;
 }
 .bio { 
-  background-color: #8EA349;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .about {
-  background-color: #8EA349;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-
+.population {
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.end {
+    padding-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
