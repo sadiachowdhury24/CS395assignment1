@@ -9,7 +9,7 @@ For this assignment we will be creating a website for our own zoo. There is a ho
 
 2. Flabica Maharjan - flabica 
 
-3. Michelle Goenawan - roh1mi
+3. Michelle Goenawan - r0h1mi
 
 4. Rithika Chowdhury - ri71
 
